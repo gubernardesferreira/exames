@@ -1,0 +1,5 @@
+{
+  "name": "Exames da Le",
+  "description": "Uma aplicação para visualizar e analisar o histórico de resultados de exames laboratoriais da Letícia a partir de um arquivo Excel.",
+  "requestFramePermissions": []
+}
